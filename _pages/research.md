@@ -8,7 +8,7 @@ author_profile: true
 
 **No Ripple in the Pond: Exposure to Refugees and Native Well‑Being.** 
 *(draft available upon request)* \
-with Kamal Kassam (IAB Nürnberg) \
+with Kamal Kassam (IAB Nürnberg)
 
 
 **Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being.** 
@@ -19,4 +19,5 @@ with Sachintha Fernando (Halle University) and Christoph Wunder (Halle Universit
 <br/>
 # Work in Progress
 
-**From Heat to Strain: The Impact of Heatwaves on Well-being across Settlement Types** with Felix Zwies (University Bayreuth)
+**From Heat to Strain: The Impact of Heatwaves on Well-being across Settlement Types** \
+with Felix Zwies (University Bayreuth)
