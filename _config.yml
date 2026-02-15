@@ -22,7 +22,7 @@ repository               : "kolbk/kolbk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Foto.jpg"
+  avatar           : "Foto.jpeg"
   name             : "Katharina Kolb"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Economics"
