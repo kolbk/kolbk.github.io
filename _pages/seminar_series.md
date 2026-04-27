@@ -5,7 +5,7 @@ permalink: /seminar_series/
 author_profile: true
 ---
 
-We kindly invite you to attend our Environmental Economics Seminar Series during the summer semester 2026. The series comprises five exciting lectures by national and international guests on environmental, climate, and sustainability topics. Besides the presentations, guest speakers will also be available for individual one-on-one meeting.
+We kindly invite you to attend our Environmental Economics Seminar Series during the summer semester 2026. The series comprises five exciting lectures by national and international guests on environmental, climate, and sustainability topics. Besides the presentations, guest speakers will also be available for one-on-one meetings.
 
 **Thursdays, 2:15 PM – 3:45 PM &nbsp;|&nbsp; SR1**  
 *Martin Luther University Halle-Wittenberg*<br>
