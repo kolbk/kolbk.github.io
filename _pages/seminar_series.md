@@ -13,10 +13,10 @@ We kindly invite you to attend our Environmental Economics Seminar Series during
 
 ## Schedule
 
-| Date       | Speaker | Topic |
-|------------|---------|-------|
-| 16 April   | Hannah Klauber (Potsdam Institute for Climate Impact Research) | The Immediate and Lasting Effects of Heat Waves on Workers |
-| 7 May      | Stefan Borsky (University of Graz) | Urban Heat, Unequal Access, and Adaptation: Evidence from Public Pools in U.S. Cities |
-| 28 May     | Bartosz Bartkowski (UFZ & MLU) | TBA |
-| 11 June    | Erlend Dancke Sandorf (Norwegian University of Life Sciences) | TBA |
-| 9 July     | Julia Mink (University of Bonn) | TBA |
+| Date | Speaker | Topic |
+|------|---------|-------|
+| 16&nbsp;April | Hannah&nbsp;Klauber&nbsp;(Potsdam&nbsp;Institute&nbsp;for&nbsp;Climate&nbsp;Impact&nbsp;Research) | The Immediate and Lasting Effects of Heat Waves on Workers |
+| 7&nbsp;May | Stefan&nbsp;Borsky&nbsp;(University&nbsp;of&nbsp;Graz) | Urban Heat, Unequal Access, and Adaptation: Evidence from Public Pools in U.S. Cities |
+| 28&nbsp;May | Bartosz&nbsp;Bartkowski&nbsp;(UFZ&nbsp;&amp;&nbsp;MLU) | TBA |
+| 11&nbsp;June | Erlend&nbsp;Dancke&nbsp;Sandorf&nbsp;(Norwegian&nbsp;University&nbsp;of&nbsp;Life&nbsp;Sciences) | TBA |
+| 9&nbsp;July | Julia&nbsp;Mink&nbsp;(University&nbsp;of&nbsp;Bonn) | TBA |
