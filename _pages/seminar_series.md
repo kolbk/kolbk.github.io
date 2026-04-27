@@ -13,10 +13,10 @@ Große Steinstraße 73, 06108 Halle
 
 ## Schedule
 
-| Date | Speaker | Affiliation |
-|------|---------|-------------|
-| 16 April | Hannah Klauber | Potsdam Institute for Climate Impact Research |
-| 7 May | Stefan Borsky | University of Graz |
-| 28 May | Bartosz Bartkowski | Helmholtz Centre for Environmental Research (UFZ) & MLU |
-| 11 June | Erlend Dancke Sandorf | Norwegian University of Life Sciences |
-| 9 July | Julia Mink | University of Bonn |
+| Date       | Speaker |
+|------------|---------|
+| 16 April   | Hannah Klauber (Potsdam Institute for Climate Impact Research) |
+| 7 May      | Stefan Borsky (University of Graz) |
+| 28 May     | Bartosz Bartkowski (Helmholtz Centre for Environmental Research (UFZ) & MLU) |
+| 11 June    | Erlend Dancke Sandorf (Norwegian University of Life Sciences) |
+| 9 July     | Julia Mink (University of Bonn) |
