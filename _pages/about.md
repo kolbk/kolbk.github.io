@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hello and welcome to my webpage :sunny:"
-seo_title: "Katharina Kolb"
+title: "Katharina Kolb"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## Hello and welcome to my webpage :sunny:
 
 I am Katharina, a PhD Student at the [Chair of Econometrics](https://oekonometrie.wiwi.uni-halle.de/) at [Martin Luther University Halle-Wittenberg](https://www.uni-halle.de/). Before starting my PhD, I worked as a researcher at [Leipzig University](https://www.uni-leipzig.de/) (Chair of Public Economics) and at the [Research Institute Social Cohesion](https://fgz-risc.de/). 
 
