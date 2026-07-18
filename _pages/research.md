@@ -1,10 +1,24 @@
 ---
 layout: archive
-title: "Working Papers"
+title: "Publications"
 permalink: /research/
 author_profile: true
 ---
 
+
+**Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being.** 
+*(Environmental and Resource Economics, accepted/forthcoming)* \
+with Sachintha Fernando (Halle University) and Christoph Wunder (Halle University) \
+[SOEPpapers on Multidisciplinary Panel Data Research, No. 1224, DIW Berlin (German Institute for Economic Research)](https://www.diw.de/de/diw_01.c.953264.de/publikationen/soeppapers/2025_1224/rising_waters__falling_well-being__the_effects_of_the_2013_east_german_flood_on_subjective_well-being.html)
+
+<details>
+<summary> Abstract</summary>
+
+This paper employs a panel event study design to examine the causal effects of the 2013 flood disaster in East Germany on subjective well-being. We merge geo-spatial flood data with longitudinal data from the Socio-Economic Panel (SOEP) to identify individuals in affected municipalities. Our results show that those affected by the flood report a significant life satisfaction drop of 0.17 points on an 11-point scale, which is equivalent to a 2.5% fall from pre-flood levels, in the year after the flood. The effect is more severe in peripheral areas than in central areas, and for low-income individuals than for high-income individuals. However, the effect dissipates by 2015. Additionally, we observe a notable initial decrease in health satisfaction, followed by recovery, while financial satisfaction was largely unaffected. 
+
+</details>
+
+# Working Papers
 
 **No Ripple in the Pond: Exposure to Refugees and Native Well‑Being.** 
 *(draft available upon request)* \
@@ -17,16 +31,14 @@ The number of refugees fleeing global conflicts and crises is steadily increasin
 
 </details>
 
-
-**Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being.** 
-*(R&R)* \
-with Sachintha Fernando (Halle University) and Christoph Wunder (Halle University) \
-[SOEPpapers on Multidisciplinary Panel Data Research, No. 1224, DIW Berlin (German Institute for Economic Research)](https://www.diw.de/de/diw_01.c.953264.de/publikationen/soeppapers/2025_1224/rising_waters__falling_well-being__the_effects_of_the_2013_east_german_flood_on_subjective_well-being.html)
+**The Impact of Extreme Heat on Well-being** \
+*(draft available upon request)* \
+with Felix Zwies (University Bayreuth)
 
 <details>
 <summary> Abstract</summary>
 
-This paper employs a panel event study design to examine the causal effects of the 2013 flood disaster in East Germany on subjective well-being. We merge geo-spatial flood data with longitudinal data from the Socio-Economic Panel (SOEP) to identify individuals in affected municipalities. Our results show that those affected by the flood report a significant life satisfaction drop of 0.17 points on an 11-point scale, which is equivalent to a 2.5% fall from pre-flood levels, in the year after the flood. The effect is more severe in peripheral areas than in central areas, and for low-income individuals than for high-income individuals. However, the effect dissipates by 2015. Additionally, we observe a notable initial decrease in health satisfaction, followed by recovery, while financial satisfaction was largely unaffected. 
+Extreme heat events are becoming more frequent and intense under climate change, increasingly affecting countries not traditionally exposed to extreme heat. This paper examines the impact of extreme heat on subjective well-being in Germany—a temperate, highly urbanized, and industrialized country that reflects conditions in many advanced economies. Using individual-level panel data from the German Socio-Economic Panel (SOEP) combined with high-resolution weather data from the German Meteorological Service (DWD), we examine the relationship between heatwaves and life satisfaction using a panel fixed effects framework.
 
 </details>
 
@@ -34,5 +46,5 @@ This paper employs a panel event study design to examine the causal effects of t
 <br/>
 # Work in Progress
 
-**From Heat to Strain: The Impact of Heatwaves on Well-being across Settlement Types** \
-with Felix Zwies (University Bayreuth)
+**Extreme Heat and Educational Outcomes** \
+with Alexander Moog (JGU Mainz)
