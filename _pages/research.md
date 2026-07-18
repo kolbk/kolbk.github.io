@@ -31,7 +31,7 @@ The number of refugees fleeing global conflicts and crises is steadily increasin
 
 </details>
 
-**The Impact of Extreme Heat on Well-being** \
+**The Impact of Extreme Heat on Well-being**
 *(draft available upon request)* \
 with Felix Zwies (University Bayreuth)
 
