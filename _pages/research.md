@@ -42,9 +42,9 @@ Extreme heat events are becoming more frequent and intense under climate change,
 
 </details>
 
-
-<br/>
 # Work in Progress
 
 **Extreme Heat and Educational Outcomes** \
 with Alexander Moog (JGU Mainz)
+
+<br/>
