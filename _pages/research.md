@@ -17,12 +17,12 @@ This paper employs a panel event study design to examine the causal effects of t
 
 </details>
 
-<br/><br/>
+<br/>
 
 
 # Working Papers
 
-**No Ripple in the Pond: Exposure to Refugees and Native Well‑Being.** 
+**No Ripple in the Pond: Exposure to Refugees and Native Well‑Being.** \
 *(draft available upon request)* \
 with Kamal Kassam (IAB Nürnberg)
 <details>
@@ -32,10 +32,10 @@ The number of refugees fleeing global conflicts and crises is steadily increasin
 
 </details>
 
-<br/><br/>
+<br/>
 
 
-**The Impact of Extreme Heat on Well-being**
+**The Impact of Extreme Heat on Well-Being** \
 *(draft available upon request)* \
 with Felix Zwies (University Bayreuth)
 <details>
@@ -45,7 +45,7 @@ Extreme heat events are becoming more frequent and intense under climate change,
 
 </details>
 
-<br/><br/>
+<br/>
 
 
 # Work in Progress
