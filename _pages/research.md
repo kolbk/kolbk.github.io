@@ -35,13 +35,15 @@ The number of refugees fleeing global conflicts and crises is steadily increasin
 <br/>
 
 
-**The Impact of Extreme Heat on Well-Being** \
+**From Heat to Strain? The Impact of Heatwaves on Subjective Well-Being** \
 *(draft available upon request)* \
 with Felix Zwies (University Bayreuth)
 <details>
 <summary> Abstract</summary>
 
-Extreme heat events are becoming more frequent and intense under climate change, increasingly affecting countries not traditionally exposed to extreme heat. This paper examines the impact of extreme heat on subjective well-being in Germany—a temperate, highly urbanized, and industrialized country that reflects conditions in many advanced economies. Using individual-level panel data from the German Socio-Economic Panel (SOEP) combined with high-resolution weather data from the German Meteorological Service (DWD), we examine the relationship between heatwaves and life satisfaction using a panel fixed effects framework.
+Extreme heat events are becoming more frequent and intense under climate change, increasingly affecting countries not traditionally exposed to extreme heat. This paper examines the impact of heatwaves on subjective well-being in Germany—a temperate, highly urbanized, and industrialized country, which reflects conditions in many advanced economies. Using individual-level panel data from the German Socio-Economic Panel (SOEP) combined with high-resolution weather data from the German Meteorological Service (DWD), we examine the relationship between heatwaves and life satisfaction using a panel fixed effects framework.
+Our results show that heatwave exposure has a detrimental impact on life satisfaction, with a reduction of 0.06 points on an 11-point scale. This adverse effect is transitory, it persists until two weeks after the event and then dissipates. Further analyses reveal that heatwaves negatively affect specific life domains, most notably satisfaction with sleep, family, and health, while also increasing concerns about climate change impacts and the environmental protection. 
+These results highlight the strains of heatwaves and emphasize the need for targeted climate change adaptation, especially for urban and vulnerable populations.
 
 </details>
 
