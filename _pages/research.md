@@ -8,7 +8,7 @@ author_profile: true
 
 **Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being.** \
 *(Environmental and Resource Economics, accepted/forthcoming)* \
-with Sachintha Fernando (Halle University) and Christoph Wunder (Halle University)
+with [Sachintha Fernando](https://sachi-fernando.github.io/) Sachintha Fernando (Halle University) and [Christoph Wunder](https://oekonometrie.wiwi.uni-halle.de/team/prof._dr._christoph_wunder/) (Halle University)
 
 <details markdown="1">
 <summary> Abstract</summary>
@@ -24,7 +24,7 @@ This paper employs a panel event study design to examine the causal effects of t
 
 **No Ripple in the Pond: Exposure to Refugees and Native Well‑Being.** \
 *(draft available upon request)* \
-with Kamal Kassam (IAB Nürnberg)
+with [Kamal Kassam](https://kamalkassam.com/) (Universidad Carlos III de Madrid)
 <details>
 <summary> Abstract</summary>
 
