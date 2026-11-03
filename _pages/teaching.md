@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am a teaching assistant at the Chair of Econometrics at MLU for:
+I teach the following problem classes at the Chair of Econometrics at MLU:
 
 * Statistics I (Bachelor level) 
 
@@ -14,3 +14,5 @@ I am a teaching assistant at the Chair of Econometrics at MLU for:
 * Introductory Econometrics (Bachelor level)
 
 * Econometrics II (Master level)
+
+I also co-teach the Master seminar in Environmental Economics.
