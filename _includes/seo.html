@@ -147,3 +147,15 @@
   <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
 {% endif %}
 <!-- end Open Graph protocol -->
+
+   {% if page.url == "/" %}
+   <script type="application/ld+json">
+     {
+       "@context": "https://schema.org",
+       "@type": "WebSite",
+       "name": "Katharina Kolb",
+       "alternateName": "Katharina Kolb",
+       "url": "https://kolbk.github.io/"
+     }
+   </script>
+   {% endif %}
