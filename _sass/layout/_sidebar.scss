@@ -329,3 +329,29 @@
     }
   }
 }
+
+
+   @media (max-width: #{$large - 1px}) {
+     .author__avatar {
+       margin-left: auto;
+       margin-right: auto;
+     }
+
+     .author__content {
+       display: block;
+       text-align: center;
+       padding: 0;
+     }
+
+     .author__urls-wrapper {
+       display: block;
+       text-align: center;
+     }
+
+     .author__urls {
+       left: 50%;
+       right: auto;
+       transform: translateX(-50%);
+       text-align: left;
+     }
+   }
