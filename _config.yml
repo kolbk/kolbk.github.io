@@ -26,7 +26,7 @@ author:
   name             : "Katharina Kolb"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics"
-  location         : "Leipzig, Germany"
+#  location         : "Leipzig, Germany"
   employer         : "MLU Halle-Wittenberg"
   uri              : # URL
   email            : "katharina.kolb@wiwi.uni-halle.de" 
