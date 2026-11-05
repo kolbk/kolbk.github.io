@@ -14,6 +14,8 @@ I am Katharina, a Ph.D. Candidate at the [Chair of Econometrics](https://oekonom
 
 I am an applied microeconomist with research interests in environmental, migration, public, and well-being economics. My research combines geo-referenced survey data with administrative and gridded data and applies quasi-experimental methods tailored to each setting. In my PhD thesis, I investigate how local shocks, such as floods, heatwaves, and large-scale refugee inflows, affect subjective well-being.
 
-Please feel free to get in touch if you are interested in collaborating or discussing research!
+</div>
 
- </div>
+<p style="text-align: center; font-style: italic; max-width: 32em; margin: 2em auto 0; color: var(--global-base-color);">
+Please feel free to get in touch if you are interested in collaborating or discussing research!
+</p>
