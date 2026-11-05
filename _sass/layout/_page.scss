@@ -399,3 +399,8 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+details {
+   text-align: justify;
+   hyphens: auto;
+}
