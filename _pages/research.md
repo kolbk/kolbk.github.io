@@ -9,7 +9,6 @@ author_profile: true
 **Rising waters, falling well-being: The effects of the 2013 East German flood on subjective well-being.** \
 *(Environmental and Resource Economics, accepted/forthcoming)* \
 with [Sachintha Fernando](https://sachi-fernando.github.io/) (Halle University) and [Christoph Wunder](https://oekonometrie.wiwi.uni-halle.de/team/prof._dr._christoph_wunder/) (Halle University)
-
 <details markdown="1">
 <summary> Abstract</summary>
 
@@ -32,7 +31,6 @@ The number of refugees fleeing global conflicts and crises is steadily increasin
 
 </details>
 
-<br/>
 
 
 **From Heat to Strain? The Impact of Heatwaves on Subjective Well-Being** \
