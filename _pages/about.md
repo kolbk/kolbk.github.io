@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Welcome! :sunny:"
+seo_title: "Katharina Kolb"
 author_profile: true
 redirect_from: 
   - /about/
